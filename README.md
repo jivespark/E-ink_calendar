@@ -20,3 +20,11 @@ You will need to use jumper wires to connect the display with the pcb. See this 
 **PCB:**
 
 ![image](https://github.com/jivespark/E-ink_calendar/blob/main/Docks/PCB.png)
+
+BOM:
+
+|Item                                    |Description    |Quantity|Unit price($)(Including tax)|Total price($)(Including tax)|URL:                                                     |Running total:|
+|----------------------------------------|---------------|--------|----------------------------|-----------------------------|---------------------------------------------------------|--------------|
+|XIAO nRF52840                           |Microcontroller|1       |13.72                       |13.72                        |https://www.aliexpress.com/item/1005008326858009.html    |13.72         |
+|waveshare 800×480, 7.5inch E-Ink display|Display        |1       |56.99                       |56.99                        |https://www.waveshare.com/product/7.5inch-e-paper-hat.htm|70.71         |
+
