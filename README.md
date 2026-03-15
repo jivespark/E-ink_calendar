@@ -5,11 +5,18 @@ To add tasks to the todo system you can send a message using a BLE terminal from
 
 I mainly made this project to make use of the Blueprint YSWS, since it ends in a few weeks, and I wanted something cool. When thinking about project ideas I sudennly remembered someone building a little desktop habit tracker/To-do list, and thats where I started out of. I would like to give credit to the person who did the original device that gave me this idea, but i couldn't remember where I saw it. I also sometimes struggle with forgetting things that I should do, so i thought a device like this would help me, and potentially others with the same problem.
 
+**Full assembly:**
+
+![image](https://github.com/jivespark/E-ink_calendar/blob/main/Docks/FullAssembly.png)
+
 You will need to use jumper wires to connect the display with the pcb. See this wiring diagram for more info(the yellow lines show what to connect with what):
-![image](https://github.com/jivespark/E-ink_calendar/blob/main/Wiring.png)
+
+![image](https://github.com/jivespark/E-ink_calendar/blob/main/Docks/Wiring.png)
 
 **Schematic:**
-![image](https://github.com/jivespark/E-ink_calendar/blob/main/Schematic.png)
+
+![image](https://github.com/jivespark/E-ink_calendar/blob/main/Docks/Schematic.png)
 
 **PCB:**
-![image](https://github.com/jivespark/E-ink_calendar/blob/main/PCB.png)
+
+![image](https://github.com/jivespark/E-ink_calendar/blob/main/Docks/PCB.png)
