@@ -28,5 +28,5 @@ BOM:
 |XIAO nRF52840                                |Microcontroller|1       |13.72                       |13.72                        |https://www.aliexpress.com/item/1005008326858009.html    |13.72         |
 |waveshare 800×480, 7.5inch E-Ink display     |Display        |1       |56.99                       |56.99                        |https://www.waveshare.com/product/7.5inch-e-paper-hat.htm|70.71         |
 |10pcs XDA2 Keycaps                           |Keycaps        |10      |0.34                        |3.43                         |https://www.aliexpress.com/item/1005006910173774.html    |74,14         |
-|Mechanical Keyboard Replacement Blue Switches|Keyswitches    |16      |0.19                        |3.140                        |https://www.aliexpress.com/item/1005011789237834.html    |77,28         |
+|Mechanical Keyboard Replacement Blue Switches|Keyswitches    |16      |0.19                        |3.14                         |https://www.aliexpress.com/item/1005011789237834.html    |77,28         |
 
